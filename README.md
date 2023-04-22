@@ -25,3 +25,6 @@ Table of content:
 - [Chapter 10: Invest in your team growth](10-invest-in-your-team-growth.md)
 
 - [Appendix](11-appendix.md)
+
+
+More blogs: https://engineering.zalopay.vn/
